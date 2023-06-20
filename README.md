@@ -1,12 +1,12 @@
 
-# 📚 Food Pandora
+# 📚 OniGiri
 
 OnirGiri is an web application that will suggest restaurants based on past places you enjoy and cuisine of interest.
 
 <details>
 <summary>Table of Contents</summary>
 
-- [📚 Food Pandora](#-food-pandora)
+- [📚 OniGiri](#-onigiri)
   - [Getting Started](#getting-started)
     - [Setup](#setup)
     - [ENV Variables](#env-variables)
