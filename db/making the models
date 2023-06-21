@@ -1,4 +1,4 @@
-rails g model order total:float user_id:references
-rails g model item name text price:float description restaurant_id:references
+rails g model order total:float user:references
+rails g model item name text price:float description restaurant:references
 rails g model restaurant name address phone_number
-rails g model order_item order_id:references item_id:references
+rails g model order_item order:references item_id:references
