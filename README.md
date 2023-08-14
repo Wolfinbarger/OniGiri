@@ -78,6 +78,7 @@ Inspired by Airbnb
 * [Daniel Scharf](https://www.linkedin.com/in/scharf-daniel-/)
 * [Jack Merrett](https://www.linkedin.com/in/jackmerrett/)
 * [X'Zaiver Wolfinbarger](https://www.linkedin.com/in/xwolfinbarger/)
+* [Nicholas (Nick) Quinn](https://www.linkedin.com/in/nicholas-quinn/)
 
 
 ## License
