@@ -30,6 +30,10 @@ Install JS packages
 ```
 yarn install
 ```
+Install React
+```
+yarn add react react-dom react-router-dom
+```
 
 ### ENV Variables
 Create `.env` file
