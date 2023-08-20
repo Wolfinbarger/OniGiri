@@ -20,8 +20,8 @@ OnirGiri is an web application that will suggest restaurants based on past place
 </details>
 
 ## Getting Started
-### How we setup React with Rails
-Please configured [this Digial Ocean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04) which outlines the process we followed.
+### Helpful Readings
+Please read the [this Digital Ocean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04) to learn how we configured React in our Rails env.
 
 ### Setup
 
